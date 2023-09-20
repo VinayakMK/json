@@ -1,0 +1,19 @@
+{
+    "students":[
+    {
+    "name": "Vinayak",
+    "age": 22,
+    "place": "Edappal",
+    "student": true,
+    "languages": ["Malayalam","English","Hindi"]
+    },
+
+    {
+    "name": "Anjali",
+    "age": 23,
+    "place": "Kuttipuram",
+    "student": true,
+    "languages": ["Malayalam","English","Hindi"]
+    }
+    ]
+}
